@@ -1,0 +1,141 @@
+.body {
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    border: 10px solid #6d6c6a;
+}
+
+.row {
+    width: 100%;
+    height: 42px;
+}
+
+.black {
+    background-color: #4a4a4a;
+}
+
+.white {
+    background: #fff;
+}
+
+.col-1 {
+    width: 5%;
+    float: left;
+    height: 40px;
+}
+
+.col-2 {
+    width: 10%;
+    float: left;
+    height: 40px;
+}
+
+.col-3 {
+    width: 15%;
+    float: left;
+    height: 40px;
+}
+
+.col-4 {
+    width: 20%;
+    float: left;
+    height: 40px;
+}
+
+.col-5 {
+    width: 25%;
+    float: left;
+    height: 40px;
+}
+
+.col-6 {
+    width: 30%;
+    float: left;
+    height: 40px;
+}
+
+.col-7 {
+    width: 35%;
+    float: left;
+    height: 40px;
+}
+
+.col-8 {
+    width: 40%;
+    float: left;
+    height: 40px;
+}
+
+.col-9 {
+    width: 45%;
+    float: left;
+    height: 40px;
+}
+
+.col-10 {
+    width: 50%;
+    float: left;
+    height: 40px;
+}
+
+.col-11 {
+    width: 55%;
+    float: left;
+    height: 40px;
+}
+
+.col-12 {
+    width: 60%;
+    float: left;
+    height: 40px;
+}
+
+.col-13 {
+    width: 65%;
+    float: left;
+    height: 40px;
+}
+
+.col-14 {
+    width: 70%;
+    float: left;
+    height: 40px;
+}
+
+.col-15 {
+    width: 75%;
+    float: left;
+    height: 40px;
+}
+
+.col-16 {
+    width: 80%;
+    float: left;
+    height: 40px;
+}
+
+.col-17 {
+    width: 85%;
+    float: left;
+    height: 40px;
+}
+
+.col-18 {
+    width: 90%;
+    float: left;
+    height: 40px;
+}
+
+.col-19 {
+    width: 95%;
+    float: left;
+    height: 40px;
+}
+
+.col-20 {
+    width: 100%;
+    float: left;
+    height: 40px;
+}
